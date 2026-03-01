@@ -1,0 +1,17 @@
+# OS-specific files
+Thumbs.db
+desktop.ini
+
+# Node modules
+node_modules/
+.npm/
+
+# WordPress temporary files
+wp-content/upgrade/
+wp-content/cache/
+*.log
+
+# Git ignore specific to local environment
+.DS_Store
+.idea/
+.vscode/
